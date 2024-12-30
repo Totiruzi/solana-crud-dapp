@@ -15,8 +15,8 @@
 #### Clone the repo
 
 ```shell
-git clone <repo-url>
-cd <repo-name>
+git clone git@github.com:Totiruzi/solana-crud-dapp.git
+cd solana-crud-dapp
 ```
 
 #### Install Dependencies
