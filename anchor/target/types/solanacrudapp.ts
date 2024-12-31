@@ -5,7 +5,7 @@
  * IDL can be found at `target/idl/solanacrudapp.json`.
  */
 export type Solanacrudapp = {
-  "address": "coUnmi3oBUtwtd9fjeAvSsJssXh5A5xyPbhpewyzRVF",
+  "address": "8AhaGPHcjPF1RKYqEeHQXRESJoYjuETbfUJ5ErW2CMdN",
   "metadata": {
     "name": "solanacrudapp",
     "version": "0.1.0",
